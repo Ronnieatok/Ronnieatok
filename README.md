@@ -223,10 +223,10 @@
   <br/>
   
   <h3>🎼 Coding Playlists</h3>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8">
+  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=dd244b42be2b4700&nd=1&dlsi=d7df502630fb4e08">
     <img src="https://img.shields.io/badge/Lofi%20Beats-1DB954?style=flat-square&logo=spotify" alt="Lofi"/>
   </a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY">
+  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=dd244b42be2b4700&nd=1&dlsi=d7df502630fb4e08">
     <img src="https://img.shields.io/badge/Focus%20Flow-1DB954?style=flat-square&logo=spotify" alt="Focus"/>
   </a>
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP">
