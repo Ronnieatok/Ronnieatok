@@ -217,7 +217,7 @@
   
   <h3>📀 Recently Played</h3>
   <a href="https://open.spotify.com/user/ronnieatok">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ronnieatok&count=5&width=500" alt="Spotify Recently Played"/>
+    <img src="https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts" alt="Spotify Recently Played"/>
   </a>
   
   <br/>
