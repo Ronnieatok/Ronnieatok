@@ -254,8 +254,8 @@
   <!-- Instagram Grid Mockup -->
   <table>
     <tr>
-      <td><img src="https://pin.it/1uMhCnSO1"/></td>
-      <td><img src="https://pin.it/1uMhCnSO1" alt="Photo 2" width="150"/></td>
+      <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
+      <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
       <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
     </tr>
     <tr>
