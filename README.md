@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/ronnieatok">
+  <a href="https://instagram.com/notjustatok">
     <img src="https://img.shields.io/badge/Instagram-%40ronnieatok-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="https://facebook.com/ronnieatok">
@@ -123,8 +123,8 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/ronnieatok">
-    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify"/>
+  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c">
+    <img src="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c" alt="Spotify"/>
   </a>
   <a href="https://t.me/ronnieatok">
     <img src="https://img.shields.io/badge/Telegram-@ronnieatok-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
@@ -209,8 +209,8 @@
 <div align="center">
   <h3>🎧 Now Playing on Spotify</h3>
   
-  <a href="https://open.spotify.com/user/ronnyatok">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ronnyatok&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
+  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c">
+    <img src="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
   </a>
   
   <br/>
