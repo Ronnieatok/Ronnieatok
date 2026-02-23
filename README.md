@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+       <a href='https://postimg.cc/3ksDMZD3' target='_blank'><img src='https://i.postimg.cc/3ksDMZD3/Gemini-Generated-Image-u0u3lru0u3lru0u3.png' border='0' alt='Gemini-Generated-Image-u0u3lru0u3lru0u3'></a>
       </td>
       <td>
         <h3>⚡ <strong>The Developer's Journey</strong></h3>
