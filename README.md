@@ -77,11 +77,19 @@
 <!-- Tech Stack Progress Bars -->
 <h3 align="center">⚙️ Proficiency Levels</h3>
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=HTML5&width=100&color=ff6b6b" />
-  <img src="https://progress-bar.dev/85/?title=CSS3&width=100&color=4ecdc4" />
-  <img src="https://progress-bar.dev/80/?title=JavaScript&width=100&color=ffe66d" />
-  <img src="https://progress-bar.dev/75/?title=React&width=100&color=6c5ce7" />
-  <img src="https://progress-bar.dev/70/?title=TypeScript&width=100&color=00b894" />
+<!-- Add this HTML/CSS block to your README -->
+<style>
+.progress-bar { height: 20px; background-color: #e0e0e0; border-radius: 10px; margin: 5px 0; width: 100%; }
+.progress-fill { height: 100%; border-radius: 10px; text-align: right; padding-right: 5px; color: white; font-size: 12px; line-height: 20px; }
+</style>
+
+<div style="width:100%; max-width:400px; margin:0 auto;">
+  <div>HTML5 <div class="progress-bar"><div class="progress-fill" style="width:90%; background-color:#ff6b6b;">90%</div></div></div>
+  <div>CSS3 <div class="progress-bar"><div class="progress-fill" style="width:85%; background-color:#4ecdc4;">85%</div></div></div>
+  <div>JavaScript <div class="progress-bar"><div class="progress-fill" style="width:80%; background-color:#ffe66d; color:black;">80%</div></div></div>
+  <div>React <div class="progress-bar"><div class="progress-fill" style="width:75%; background-color:#6c5ce7;">75%</div></div></div>
+  <div>TypeScript <div class="progress-bar"><div class="progress-fill" style="width:70%; background-color:#00b894;">70%</div></div></div>
+</div>
 </p>
 
 ---
