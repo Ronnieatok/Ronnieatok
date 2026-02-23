@@ -1,192 +1,59 @@
-<!-- Animated gradient header -->
+<!-- Animated Matrix Header -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated wave line">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ronnie%20Atok&fontSize=60&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Photographer%20%7C%20Creator&descAlignY=55&animation=twinkling" alt="header"/>
 </div>
 
-<!-- Animated typing with emoji slide effect -->
+<!-- Animated Code Typing -->
 <p align="center">
   <a href="https://github.com/Ronnieatok">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00C7B7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Front-End+Developer+from+Kenya;%F0%9F%8E%A8+Building+clean+%26+modern+web+experiences;%F0%9F%93%B8+Telling+visual+stories+through+photography;%F0%9F%8C%8D+Open+to+global+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=60&lines=console.log('Hello%2C+World!');+%3C%2F%3E;println('Welcome+to+my+profile');System.out.println('Let's+collaborate!');print('Code+%7C+Create+%7C+Capture')" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Animated profile banner with wave emoji -->
+<!-- Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ronnieatok/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+<!-- Animated Welcome Section -->
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
+
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="wave"> 
-  Hi, I'm <strong>Ronnie Atok</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to my Digital Space
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<!-- Animated subtitle with sliding effect -->
+<!-- 3D Stats Card -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=Front-End+Developer;Photographer;Content+Creator;UI+Enthusiast" alt="Roles typing" />
-</p>
-
-<p align="center">
-  <em>Crafting sleek web experiences and visual stories — from Kenya to the world.</em>
-</p>
-
-<!-- Enhanced visitor counter with animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronnieatok&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ronnieatok?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
-</p>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated wave line">
-
-## 🌟 About Me
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" width="20px"> 
-      Passionate <strong>Front-End Developer</strong> focused on usable, high-performance, and visually consistent products.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/site/icons/camera.svg" width="20px"> 
-      <strong>Photographer & content creator</strong> telling authentic stories through imagery and design.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/site/icons/star.svg" width="20px"> 
-      🌱 Currently exploring <strong>TypeScript</strong>, <strong>frontend architecture</strong>, and <strong>performance optimization</strong>.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/site/icons/briefcase.svg" width="20px"> 
-      💼 Open to <strong>frontend roles</strong>, <strong>freelance contracts</strong>, and <strong>impact-driven collaborations</strong>.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/site/icons/location.svg" width="20px"> 
-      📍 Based in <strong>Kenya</strong>, available for <strong>remote work worldwide</strong>.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/site/icons/mail.svg" width="20px"> 
-      📫 Reach me anytime at <strong>ronnieatok@gmail.com</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Ronnieatok" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ronnieatok" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ronnieatok" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://clickshots.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Photography_Portfolio-Clickshots-FF6F00?style=for-the-badge&logo=unsplash&logoColor=white" alt="Photography Portfolio"/>
-  </a>
-  <a href="mailto:ronnieatok@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://ronnieatok.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ronnieatok&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophy" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 💫 About Me
 
-<!-- Animated tech stack with icons -->
-<h3 align="center">Languages & Core</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
-</p>
-
-<h3 align="center">Frontend & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass,bootstrap" alt="Frameworks" />
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,netlify,vercel" alt="Tools" />
-</p>
-
-<!-- Compact badge version for fallback -->
-<details>
-  <summary><b>📋 View detailed tech stack</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </p>
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Animated project cards -->
+<!-- Animated gradient card -->
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Digital Canvas</h3>
-        <p align="center">
-          <a href="https://github.com/Ronnieatok/ronnie-atok-s-digital-canvas">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ronnieatok&repo=ronnie-atok-s-digital-canvas&theme=tokyonight&hide_border=true" alt="Digital Canvas repo card"/>
-          </a>
-        </p>
-        <p align="center">A TypeScript-powered playground for UI experiments and personal design ideas.</p>
+      <td>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
       </td>
-      <td width="50%">
-        <h3 align="center">BeepKenya</h3>
-        <p align="center">
-          <a href="https://github.com/Ronnieatok/BeepKenya">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ronnieatok&repo=BeepKenya&theme=tokyonight&hide_border=true" alt="BeepKenya repo card"/>
-          </a>
-        </p>
-        <p align="center">A modern concept for a Kenya-wide car marketplace with a clean and intuitive interface.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Clickshot</h3>
-        <p align="center">
-          <a href="https://github.com/Ronnieatok/clickshot">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ronnieatok&repo=clickshot&theme=tokyonight&hide_border=true" alt="Clickshot repo card"/>
-          </a>
-        </p>
-        <p align="center">My photography portfolio — capturing portraits, events, and visual stories.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Hekimaschool</h3>
-        <p align="center">
-          <a href="https://github.com/Ronnieatok/Hekimaschool">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ronnieatok&repo=Hekimaschool&theme=tokyonight&hide_border=true" alt="Hekimaschool repo card"/>
-          </a>
-        </p>
-        <p align="center">A school website emphasizing clarity and accessibility for communities.</p>
+      <td>
+        <h3>⚡ <strong>The Developer's Journey</strong></h3>
+        <ul>
+          <li>🔭 Currently working on <strong>React & TypeScript projects</strong></li>
+          <li>🌱 Learning <strong>Advanced Frontend Architecture</strong></li>
+          <li>👯 Looking to collaborate on <strong>Open Source & Creative Projects</strong></li>
+          <li>🤔 Exploring <strong>Web Performance Optimization</strong></li>
+          <li>💬 Ask me about <strong>Frontend, Photography, or Music</strong></li>
+          <li>⚡ Fun fact: <strong>I can code and click📸 at the same time!</strong></li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -194,75 +61,337 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🎨 Creative Tech Stack
 
-<!-- Animated stats with activity graph -->
+<!-- Animated Tech Icons with Hover Effects -->
+<h3 align="center">Core Technologies</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronnieatok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ronnie's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnieatok&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnieatok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/></a>
 </p>
 
-<!-- Activity Graph -->
+<!-- Tech Stack Progress Bars -->
+<h3 align="center">⚙️ Proficiency Levels</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronnieatok&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
+  <img src="https://progress-bar.dev/90/?title=HTML5&width=100&color=ff6b6b" />
+  <img src="https://progress-bar.dev/85/?title=CSS3&width=100&color=4ecdc4" />
+  <img src="https://progress-bar.dev/80/?title=JavaScript&width=100&color=ffe66d" />
+  <img src="https://progress-bar.dev/75/?title=React&width=100&color=6c5ce7" />
+  <img src="https://progress-bar.dev/70/?title=TypeScript&width=100&color=00b894" />
 </p>
 
 ---
 
-## 🎯 Recent Activity
+## 📱 Connect With Me
 
-<!--START_SECTION:activity-->
-<!-- This section will auto-update with recent GitHub activity if you set up a workflow -->
+<!-- Animated Social Media Cards -->
 <p align="center">
-  <i>⚡ Recent GitHub activity will appear here automatically</i>
+  <a href="https://github.com/Ronnieatok">
+    <img src="https://img.shields.io/badge/GitHub-%40Ronnieatok-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/ronnieatok">
+    <img src="https://img.shields.io/badge/LinkedIn-ronnieatok-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ronnieatok">
+    <img src="https://img.shields.io/badge/Twitter-%40ronnieatok-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-2024-00C7B7?style=flat-square" alt="Last Updated"/>
+  <a href="https://instagram.com/ronnieatok">
+    <img src="https://img.shields.io/badge/Instagram-%40ronnieatok-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/ronnieatok">
+    <img src="https://img.shields.io/badge/Facebook-ronnieatok-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/254700000000">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  </a>
 </p>
-<!--END_SECTION:activity-->
-
----
-
-<!-- Animated quote -->
-<h3 align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</h3>
-
----
-
-## 🎵 Currently Vibing To
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/user/ronnieatok">
+    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify"/>
+  </a>
+  <a href="https://t.me/ronnieatok">
+    <img src="https://img.shields.io/badge/Telegram-@ronnieatok-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
+  </a>
+  <a href="mailto:ronnieatok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ronnieatok@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<!-- Animated footer -->
+## 🚀 Featured Work
+
+<!-- Animated Project Showcase -->
+<div align="center">
+  <h3>💻 Development Projects</h3>
+  
+  <table>
+    <tr>
+      <td width="33%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="80">
+          <h4>Digital Canvas</h4>
+          <p>UI/UX Experiments with TypeScript</p>
+          <a href="https://github.com/Ronnieatok/ronnie-atok-s-digital-canvas">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo">
+          </a>
+          <img src="https://img.shields.io/github/stars/Ronnieatok/ronnie-atok-s-digital-canvas?style=social" alt="Stars">
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="80">
+          <h4>BeepKenya</h4>
+          <p>Car Marketplace Concept</p>
+          <a href="https://github.com/Ronnieatok/BeepKenya">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo">
+          </a>
+          <img src="https://img.shields.io/github/forks/Ronnieatok/BeepKenya?style=social" alt="Forks">
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="80">
+          <h4>clickshot</h4>
+          <p>Photography Portfolio</p>
+          <a href="https://github.com/Ronnieatok/clickshot">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" alt="Repo">
+          </a>
+          <img src="https://img.shields.io/github/watchers/Ronnieatok/clickshot?style=social" alt="Watchers">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Universe
+
+<!-- 3D Stats Cards -->
+<div align="center">
+  <h3>⚡ Activity & Stats</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronnieatok&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnieatok&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="48%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnieatok&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="40%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronnieatok&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=6C63FF&line=6C63FF" width="95%"/>
+</div>
+
+---
+
+## 🎵 Music & Creativity
+
+<!-- Spotify Integration -->
+<div align="center">
+  <h3>🎧 Now Playing on Spotify</h3>
+  
+  <a href="https://open.spotify.com/user/ronnieatok">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ronnieatok&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
+  </a>
+  
+  <br/>
+  
+  <h3>📀 Recently Played</h3>
+  <a href="https://open.spotify.com/user/ronnieatok">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ronnieatok&count=5&width=500" alt="Spotify Recently Played"/>
+  </a>
+  
+  <br/>
+  
+  <h3>🎼 Coding Playlists</h3>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8">
+    <img src="https://img.shields.io/badge/Lofi%20Beats-1DB954?style=flat-square&logo=spotify" alt="Lofi"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY">
+    <img src="https://img.shields.io/badge/Focus%20Flow-1DB954?style=flat-square&logo=spotify" alt="Focus"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP">
+    <img src="https://img.shields.io/badge/Deep%20Focus-1DB954?style=flat-square&logo=spotify" alt="Deep Focus"/>
+  </a>
+</div>
+
+---
+
+## 📸 Photography Corner
+
+<!-- Instagram Gallery -->
+<div align="center">
+  <h3>🖼️ Latest Through My Lens</h3>
+  
+  <p>
+    <a href="https://instagram.com/ronnieatok">
+      <img src="https://img.shields.io/badge/Follow%20%40ronnieatok-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://clickshots.netlify.app">
+      <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=unsplash&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+  
+  <!-- Instagram Grid Mockup -->
+  <table>
+    <tr>
+      <td><img src="https://via.placeholder.com/150/6C63FF/FFFFFF?text=Portrait" alt="Photo 1" width="150"/></td>
+      <td><img src="https://via.placeholder.com/150/FF6B6B/FFFFFF?text=Street" alt="Photo 2" width="150"/></td>
+      <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://via.placeholder.com/150/FFE66D/000000?text=Events" alt="Photo 4" width="150"/></td>
+      <td><img src="https://via.placeholder.com/150/00B894/FFFFFF?text=Urban" alt="Photo 5" width="150"/></td>
+      <td><img src="https://via.placeholder.com/150/6C5CE7/FFFFFF?text=Creative" alt="Photo 6" width="150"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💬 Testimonials
+
+<!-- Animated Testimonials -->
+<div align="center">
+  <h3>⭐ What People Say</h3>
+  
+  <table>
+    <tr>
+      <td>
+        <i>"Ronnie is an exceptional developer with great attention to detail. His work on our project was outstanding!"</i>
+        <br/>
+        <b>— Client Name, Project Lead</b>
+      </td>
+      <td>
+        <i>"Not only a skilled developer but also a creative photographer. He brings unique perspective to everything."</i>
+        <br/>
+        <b>— Colleague Name, Design Team</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<!-- Goals with Progress -->
+<div align="center">
+  <h3>🎯 2026 Goals</h3>
+  
+  <table>
+    <tr>
+      <td>Master TypeScript</td>
+      <td><progress value="75" max="100"></progress> 75%</td>
+    </tr>
+    <tr>
+      <td>Launch Personal Portfolio</td>
+      <td><progress value="90" max="100"></progress> 90%</td>
+    </tr>
+    <tr>
+      <td>Open Source Contributions</td>
+      <td><progress value="40" max="100"></progress> 40%</td>
+    </tr>
+    <tr>
+      <td>Photography Exhibition</td>
+      <td><progress value="30" max="100"></progress> 30%</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📅 Weekly Coding Stats
+
+<!-- WakaTime Stats -->
+<div align="center">
+  <h3>⌨️ This Week I Spent My Time On</h3>
+  
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Hours</th>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>25 hrs 30 mins</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>15 hrs 20 mins</td>
+    </tr>
+    <tr>
+      <td>HTML/CSS</td>
+      <td>8 hrs 45 mins</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>20 hrs 10 mins</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎮 Fun Zone
+
+<!-- Random Fun Facts -->
+<div align="center">
+  <h3>🎲 Random Dev Joke</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="400"/>
+  
+  <h3>⚡ Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote" width="400"/>
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Create%20Something%20Amazing&fontSize=30&fontAlignY=70&animation=twinkling" alt="footer"/>
+</div>
+
+<!-- Floating Social Icons -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%"/>
+  <a href="https://github.com/Ronnieatok">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/ronnieatok">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/notjustatok">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://wa.me/254705902590">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="https://open.spotify.com/user/ronnieatok">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify" alt="Spotify">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!;Let's+build+something+amazing;Open+to+collaborations" alt="Footer typing" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer animation" width="100%"/>
-</p>
-
-<p align="center">
-  💙 <em>Thanks for stopping by — let’s build something amazing together!</em> 💙
-</p>
-
+<!-- Back to Top -->
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/⬆️_Back_to_top-00C7B7?style=for-the-badge" alt="Back to top"/>
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-6C63FF?style=for-the-badge" alt="Back to Top">
   </a>
 </p>
