@@ -77,19 +77,11 @@
 <!-- Tech Stack Progress Bars -->
 <h3 align="center">⚙️ Proficiency Levels</h3>
 <p align="center">
-<!-- Add this HTML/CSS block to your README -->
-<style>
-.progress-bar { height: 20px; background-color: #e0e0e0; border-radius: 10px; margin: 5px 0; width: 100%; }
-.progress-fill { height: 100%; border-radius: 10px; text-align: right; padding-right: 5px; color: white; font-size: 12px; line-height: 20px; }
-</style>
-
-<div style="width:100%; max-width:400px; margin:0 auto;">
-  <div>HTML5 <div class="progress-bar"><div class="progress-fill" style="width:90%; background-color:#ff6b6b;">90%</div></div></div>
-  <div>CSS3 <div class="progress-bar"><div class="progress-fill" style="width:85%; background-color:#4ecdc4;">85%</div></div></div>
-  <div>JavaScript <div class="progress-bar"><div class="progress-fill" style="width:80%; background-color:#ffe66d; color:black;">80%</div></div></div>
-  <div>React <div class="progress-bar"><div class="progress-fill" style="width:75%; background-color:#6c5ce7;">75%</div></div></div>
-  <div>TypeScript <div class="progress-bar"><div class="progress-fill" style="width:70%; background-color:#00b894;">70%</div></div></div>
-</div>
+  <img src="https://img.shields.io/badge/HTML5-90%25-ff6b6b?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-85%25-4ecdc4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-80%25-ffe66d?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-75%25-6c5ce7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-70%25-00b894?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
