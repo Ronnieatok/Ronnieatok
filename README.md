@@ -105,8 +105,8 @@
   <a href="https://linkedin.com/in/ronnieatok">
     <img src="https://img.shields.io/badge/LinkedIn-ronnieatok-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/ronnieatok">
-    <img src="https://img.shields.io/badge/Twitter-%40ronnieatok-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  <a href="https://twitter.com/roniatok">
+    <img src="https://img.shields.io/badge/Twitter-%40ronitok-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
   </a>
 </p>
 
@@ -117,15 +117,12 @@
   <a href="https://facebook.com/ronnieatok">
     <img src="https://img.shields.io/badge/Facebook-ronnieatok-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
   </a>
-  <a href="https://wa.me/254700000000">
+  <a href="https://wa.me/254705902590">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
   </a>
 </p>
 
 <p align="center">
-<a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=dd244b42be2b4700&nd=1&dlsi=d7df502630fb4e08">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zchz354cccczk4bdte5t2rnvje&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" width="400"/>
-</a>
   <a href="https://t.me/ronnieatok">
     <img src="https://img.shields.io/badge/Telegram-@ronnieatok-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
   </a>
