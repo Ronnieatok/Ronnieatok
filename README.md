@@ -11,9 +11,6 @@
 </p>
 
 <!-- Profile Views Counter with Animation -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Ronnieatok/count.svg" alt="Visitor Count" />
-</p>
 
 ---
 
