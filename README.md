@@ -1,86 +1,96 @@
+<h1 align="center">Hi, I'm Ronnie Atok 👋</h1>
 
-<!--
-**Ronnieatok/Ronnieatok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Front-End Developer • Photographer • Content Creator  
+  <br/>
+  Building clean, modern web experiences and visual stories from Kenya to the world.
+</p>
 
-Here are some ideas to get you started:
-# Hi, I'm Ronnie Atok 👋
+---
 
-💭 Eat → Code → Shoot → Create → 🔁  
+## 🌍 About Me
 
-I'm a Front-End Developer, photographer, and content creator from Kenya who loves turning ideas into clean, usable digital experiences. I build websites and visual stories for brands, schools, and communities, with a focus on clarity, usability, and impact. [web:11][web:16]
-
-- 🔭 Currently working on: **ronnie-atok-s-digital-canvas** – my experimental space for trying new ideas and refining my personal brand. [page:1]
-- 🧾 Also building: a modern online CV and multiple portfolio sites for my work and clients. [page:1]
-- 🌱 Learning: TypeScript, better frontend architecture, and performance optimization.
-- 💼 Open to: frontend roles, freelance web projects, and collaborations on impactful digital products.
-- 📸 5+ years of photography across portraits, events, products, and documentary-style work. [web:16]
-- 📍 Based in: Kenya, working with clients anywhere.
+- 💻 Front-End Developer focused on usable, fast, and visually consistent web experiences.  
+- 📸 Photographer & content creator telling stories through images and the web.  
+- 🌱 Currently learning: TypeScript, frontend architecture, and performance optimization.  
+- 💼 Open to: frontend roles, freelance projects, and impact-driven collaborations.  
+- 📍 Based in Kenya, available for remote work.  
 - 📫 Reach me: **ronnieatok@gmail.com**
 
 ---
 
-### 🛠 Tech & Tools
+## 🌐 Connect With Me
 
-- Languages: JavaScript, TypeScript, HTML5, CSS3
-- Frontend: React (and modern SPA tooling)
-- Styling: Responsive design, custom CSS, component-based UI
-- Tools: Git, GitHub, VS Code, Netlify, design tools for layout and content
-- Focus: Marketing sites, portfolios, school sites, and small business websites
-
-*(Update these to exactly match what you actually use.)*
+<p align="left">
+  <a href="https://github.com/Ronnieatok" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://clickshots.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Photography-Clickshots-FF6F00?style=for-the-badge&logo=google-photos&logoColor=white" alt="Photography Portfolio"/>
+  </a>
+  <a href="mailto:ronnieatok@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ronnieatok%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### 📂 Featured Projects
+## 🛠 Languages & Tools
 
-These projects show the kind of work I enjoy most. [page:1]
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some projects that show what I like to build.
 
 - **[ronnie-atok-s-digital-canvas](https://github.com/Ronnieatok/ronnie-atok-s-digital-canvas)**  
-  A TypeScript-powered digital playground for experiments, UI ideas, and building out my personal brand as a developer. [page:1]
+  A TypeScript-powered digital playground for experiments, UI ideas, and personal branding.
 
 - **[BeepKenya](https://github.com/Ronnieatok/BeepKenya)**  
-  A marketplace concept for buying and selling cars across Kenya, focused on simple browsing and easy connections between buyers and sellers. [page:1]
+  Concept for a Kenya-wide car marketplace connecting buyers and sellers with a simple, clean interface.
 
 - **[clickshot](https://github.com/Ronnieatok/clickshot)**  
-  Photography portfolio showcasing my work as a photographer and content creator, tying visuals together with a clean web experience. [web:16][page:1]
+  Photography portfolio powering my visual brand and showcasing portraits, events, and products.
 
 - **[Hekimaschool](https://github.com/Ronnieatok/Hekimaschool)**  
-  A school website designed to clearly communicate with parents, students, and the wider community. [page:1]
-
-- **[Ronald.atok.portfolio](https://github.com/Ronnieatok/Ronald.atok.portfolio)**  
-  Developer portfolio presenting my skills, services, and selected projects as a front-end developer. [web:11][page:1]
+  School website focused on clear communication for parents, students, and the wider community.
 
 - **[Turkana-culture](https://github.com/Ronnieatok/Turkana-culture)**  
-  A cultural site highlighting the rich heritage and identity of the Turkana community. [page:1]
-
-(You can pin 4–6 of these on GitHub to match this list.)
+  A cultural site highlighting the rich heritage and identity of the Turkana community.
 
 ---
 
-### 🎨 Code + Creativity
+## 📈 GitHub Stats
 
-I enjoy the mix of design and engineering: planning layouts, crafting interfaces, writing clean code, and supporting it all with strong visuals and content. [web:11][web:16]  
-Whether it’s a portfolio, a school website, or a marketplace concept, I aim to build experiences that feel simple, fast, and visually consistent. [web:11]
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronnieatok&show_icons=true&theme=tokyonight" alt="Ronnie's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnieatok&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
-
-> Make sure this profile repository is named `Ronnieatok` and is public so the stats display correctly. [page:1]
-
-<!--
-![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnieatok&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnieatok&layout=compact&theme=tokyonight)
--->
-
-Thanks for stopping by and checking out my work! 🚀
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Thanks for stopping by 💙  
+</p>
