@@ -191,40 +191,6 @@
 
 ---
 
-## 🎵 Music & Creativity
-
-<!-- Spotify Integration -->
-<div align="center">
-  <h3>🎧 Now Playing on Spotify</h3>
-  
-  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c">
- <a href="https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM?si=qcIjyhgMTb6tIC37TbIKCQ">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=19Fi1Rj7kk8kyiwxpXy3yM&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
-</a>
-  
-  <br/>
-  
-  <h3>📀 Recently Played</h3>
-  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=286dc7e6f2af40f4">
-    <img src="https://open.spotify.com/track/1fSSGMdL2YgHVlrvCzrdap" alt="Spotify Recently Played"/>
-  </a>
-  
-  <br/>
-  
-  <h3>🎼 Coding Playlists</h3>
-  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=dd244b42be2b4700&nd=1&dlsi=d7df502630fb4e08">
-    <img src="https://img.shields.io/badge/Lofi%20Beats-1DB954?style=flat-square&logo=spotify" alt="Lofi"/>
-  </a>
-  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=dd244b42be2b4700&nd=1&dlsi=d7df502630fb4e08">
-    <img src="https://img.shields.io/badge/Focus%20Flow-1DB954?style=flat-square&logo=spotify" alt="Focus"/>
-  </a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP">
-    <img src="https://img.shields.io/badge/Deep%20Focus-1DB954?style=flat-square&logo=spotify" alt="Deep Focus"/>
-  </a>
-</div>
-
----
-
 ## 📸 Photography Corner
 
 <!-- Instagram Gallery -->
@@ -256,12 +222,12 @@
       <td>
         <i>"Ronnie is an exceptional developer with great attention to detail. His work on our project was outstanding!"</i>
         <br/>
-        <b>— Client Name, Project Lead</b>
+        <b>— Isaura Epuyo, Project Lead</b>
       </td>
       <td>
         <i>"Not only a skilled developer but also a creative photographer. He brings unique perspective to everything."</i>
         <br/>
-        <b>— Colleague Name, Design Team</b>
+        <b>— Sebastian Mwathi, Design Team</b>
       </td>
     </tr>
   </table>
