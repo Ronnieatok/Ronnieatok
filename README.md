@@ -252,18 +252,6 @@
   </p>
   
   <!-- Instagram Grid Mockup -->
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
-      <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
-      <td><img src="https://via.placeholder.com/150/4ECDC4/FFFFFF?text=Nature" alt="Photo 3" width="150"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/150/FFE66D/000000?text=Events" alt="Photo 4" width="150"/></td>
-      <td><img src="https://via.placeholder.com/150/00B894/FFFFFF?text=Urban" alt="Photo 5" width="150"/></td>
-      <td><img src="https://via.placeholder.com/150/6C5CE7/FFFFFF?text=Creative" alt="Photo 6" width="150"/></td>
-    </tr>
-  </table>
 </div>
 
 ---
