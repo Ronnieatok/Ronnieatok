@@ -369,7 +369,7 @@
   <a href="https://wa.me/254705902590">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp">
   </a>
-  <a href="https://open.spotify.com/user/ronnieatok">
+  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=286dc7e6f2af40f4">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify" alt="Spotify">
   </a>
 </p>
