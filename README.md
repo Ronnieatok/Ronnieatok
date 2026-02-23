@@ -207,13 +207,14 @@
   <h3>🎧 Now Playing on Spotify</h3>
   
   <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c">
-    <img src="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=6f514b777cfc4a2c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
-  </a>
+ <a href="https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM?si=qcIjyhgMTb6tIC37TbIKCQ">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=19Fi1Rj7kk8kyiwxpXy3yM&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
+</a>
   
   <br/>
   
   <h3>📀 Recently Played</h3>
-  <a href="https://open.spotify.com/user/ronnyatok">
+  <a href="https://open.spotify.com/user/31zchz354cccczk4bdte5t2rnvje?si=286dc7e6f2af40f4">
     <img src="https://open.spotify.com/track/1fSSGMdL2YgHVlrvCzrdap" alt="Spotify Recently Played"/>
   </a>
   
