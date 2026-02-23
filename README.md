@@ -180,13 +180,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ronnieatok&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnieatok&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="48%" />
   
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnieatok&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="40%" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronnieatok&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=6C63FF&line=6C63FF" width="95%"/>
+
 </div>
 
 ---
@@ -198,7 +192,7 @@
   <h3>🖼️ Latest Through My Lens</h3>
   
   <p>
-    <a href="https://instagram.com/ronnieatok">
+    <a href="https://instagram.com/notjustatok">
       <img src="https://img.shields.io/badge/Follow%20%40ronnieatok-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://clickshots.netlify.app">
