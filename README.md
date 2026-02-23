@@ -209,15 +209,15 @@
 <div align="center">
   <h3>🎧 Now Playing on Spotify</h3>
   
-  <a href="https://open.spotify.com/user/ronnieatok">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ronnieatok&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
+  <a href="https://open.spotify.com/user/ronnyatok">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ronnyatok&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=true" width="400"/>
   </a>
   
   <br/>
   
   <h3>📀 Recently Played</h3>
-  <a href="https://open.spotify.com/user/ronnieatok">
-    <img src="https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts" alt="Spotify Recently Played"/>
+  <a href="https://open.spotify.com/user/ronnyatok">
+    <img src="https://open.spotify.com/track/1fSSGMdL2YgHVlrvCzrdap" alt="Spotify Recently Played"/>
   </a>
   
   <br/>
