@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td>
-  <a href='https://postimg.cc/3ksDMZD3' target='_blank'><img src='https://i.postimg.cc/s2XPh6jG/Gemini-Generated-Image-u0u3lru0u3lru0u3.png' border='0' alt='Gemini-Generated-Image-u0u3lru0u3lru0u3'></a>
+ <a href='https://postimg.cc/PLf8H9vj' target='_blank'><img src='https://i.postimg.cc/GpGPF1cH/profile-avatar-jpg.jpg' border='0' alt='profile-avatar-jpg'></a>
       </td>
       <td>
         <h3>⚡ <strong>The Developer's Journey</strong></h3>
