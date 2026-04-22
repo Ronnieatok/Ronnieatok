@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td>
- <a href='https://postimg.cc/PLf8H9vj' target='_blank'><img src='https://i.postimg.cc/GpGPF1cH/profile-avatar-jpg.jpg' border='0' alt='profile-avatar-jpg'></a>
+ <a href='<a href='https://postimg.cc/JyMVQg2H' target='_blank'><img src='https://i.postimg.cc/JyMVQg2H/ronnieatokprofile.jpg' border='0' alt='ronnieatokprofile'></a>'></a>
       </td>
       <td>
         <h3>⚡ <strong>The Developer's Journey</strong></h3>
