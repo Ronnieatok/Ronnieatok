@@ -34,7 +34,7 @@
 
 <img align="right" src="https://i.postimg.cc/d1K1jRZt/ronnieatokprofile.jpg" width="180" style="border-radius: 12px; margin-left: 20px;"/>
 
-I'm **Ronald Atok** — a Nairobi-based **Full-Stack Developer**, **CEO & Lead Photographer** at [Clix Visuals](https://instagram.com/notjustatok), and digital creative who lives at the intersection of clean code and visual storytelling.
+I'm **Ronald Atok**  a Nairobi-based **Web Developer**,**Photographer**, **Creative Designer** and **CEO & Lead Photographer** at [Clix Visuals](https://instagram.com/notjustatok), and digital creative who lives at the intersection of clean code and visual storytelling.
 
 By day I architect React & Next.js applications. By night I'm behind a lens or designing the next thing no one asked for but everyone needed.
 
@@ -42,7 +42,7 @@ By day I architect React & Next.js applications. By night I'm behind a lens or d
 const ronnie = {
   pronouns     : "he/him",
   location     : "Nairobi, Kenya 🇰🇪",
-  role         : "Full-Stack Dev + CEO @ Clix Visuals",
+  role         : "Web Dev , Photographer and Creative Designer /CEO @ Clix Visuals",
   stack        : ["React", "Next.js 14", "TypeScript", "Supabase", "Tailwind"],
   currentBuild : ["NEXUS Vault 🛰️", "anonymouswithAtok 🕵️"],
   hobbies      : ["Photography", "Skating", "Cooking", "Sci-Fi films", "Walking 10k+"],
@@ -179,13 +179,6 @@ const ronnie = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ronnieatok&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
-</div>
-
----
 
 ## 🎯 2026 Roadmap
 
