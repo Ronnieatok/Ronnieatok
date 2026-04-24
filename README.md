@@ -32,7 +32,7 @@
 
 ## 👤 About Me
 
-<img align="right" src="https://i.postimg.cc/JyMVQg2H/ronnieatokprofile.jpg" width="180" style="border-radius: 12px; margin-left: 20px;"/>
+<img align="right" src="https://i.postimg.cc/d1K1jRZt/ronnieatokprofile.jpg" width="180" style="border-radius: 12px; margin-left: 20px;"/>
 
 I'm **Ronald Atok** — a Nairobi-based **Full-Stack Developer**, **CEO & Lead Photographer** at [Clix Visuals](https://instagram.com/notjustatok), and digital creative who lives at the intersection of clean code and visual storytelling.
 
