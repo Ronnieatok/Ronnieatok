@@ -134,10 +134,10 @@ const ronnie = {
           A Kenyan car marketplace concept — browse, list, and connect with local auto sellers. Clean UI with locality-first filtering.
         </p>
         <p align="center">
-          <a href="https://github.com/Ronnieatok/BeepKenya">
-            <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+          <a href="https://djjookenya.vercel.app">
+            <img src="https://i.postimg.cc/7YrnGNy4/og-image.png" alt="Repo"/>
           </a>
-          <img src="https://img.shields.io/github/forks/Ronnieatok/BeepKenya?style=social" alt="Forks"/>
+          <img src=""/>
         </p>
       </td>
       <td width="50%" valign="top">
