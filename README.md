@@ -126,16 +126,16 @@ const ronnie = {
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🚗 BeepKenya</h3>
+        <h3 align="center">Dj Joo Kenya Website</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="130" alt="BeepKenya"/>
+          <img src="https://i.postimg.cc/7YrnGNy4/og-image.png" width="200" height="130" alt="Dj Joo Kenya"/>
         </div>
         <p align="center">
-          A Kenyan car marketplace concept — browse, list, and connect with local auto sellers. Clean UI with locality-first filtering.
+          >DJ Joo Kenya | Turkana-born, globally driven. Fingers on the faders, soul in the sound. Afro House | Amapiano | Afrobeat | R&B | Hip Hop | Pop | Bongo | Mixtapes. Nairobi to the world. 🎧.
         </p>
         <p align="center">
           <a href="https://djjookenya.vercel.app">
-            <img src="https://i.postimg.cc/7YrnGNy4/og-image.png" alt="Repo"/>
+            <img src="https://github.com/Ronnieatok/djjookenya" alt="Repo"/>
           </a>
           <img src=""/>
         </p>
