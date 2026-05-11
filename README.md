@@ -137,7 +137,7 @@ const ronnie = {
           <a href="https://djjookenya.vercel.app">
             <img src="https://github.com/Ronnieatok/djjookenya" alt="Repo"/>
           </a>
-          <img src=""/>
+          <img src="https://github.com/Ronnieatok/djjookenya"/>
         </p>
       </td>
       <td width="50%" valign="top">
