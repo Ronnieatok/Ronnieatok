@@ -34,7 +34,7 @@
 
 <img align="right" src="https://i.postimg.cc/d1K1jRZt/ronnieatokprofile.jpg" width="180" style="border-radius: 12px; margin-left: 20px;"/>
 
-I'm **Ronald Atok**  a Nairobi-based **Web Developer**,**Photographer**, **Creative Designer** and **CEO & Lead Photographer** at [Clix Visuals](https://instagram.com/notjustatok), and digital creative who lives at the intersection of clean code and visual storytelling.
+I'm **Ronnie Atok**  a Nairobi-based **Web Developer**,**Photographer**, **Creative Designer** and **CEO & Lead Photographer** at [Clix Visuals](https://instagram.com/notjustatok), and digital creative who lives at the intersection of clean code and visual storytelling.
 
 By day I architect React & Next.js applications. By night I'm behind a lens or designing the next thing no one asked for but everyone needed.
 
