@@ -6,7 +6,7 @@
 <!-- ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝╚══════╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,20,24&height=220&section=header&text=Ronnie%20Atok&fontSize=72&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20CEO%20%40%20Clix%20Visuals%20%7C%20Digital%20Creator&descAlignY=58&descSize=16&animation=fadeIn&stroke=6C63FF&strokeWidth=2" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,20,24&height=220&section=header&text=Ronnie%20Atok&fontSize=72&fontAlignY=38&fontColor=FFFFFF&desc=Front-End%20Developer%20%7C%20CEO%20%40%20Clix%20Visuals%20%7C%20Digital%20Creator&descAlignY=58&descSize=16&animation=fadeIn&stroke=6C63FF&strokeWidth=2" alt="header"/>
 </div>
 
 <br/>
